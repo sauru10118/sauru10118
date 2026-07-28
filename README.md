@@ -1,7 +1,7 @@
 <!-- ============================================================ -->
 <!--                    WAVE HEADER BANNER                        -->
 <!-- ============================================================ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hi%20There,%20I'm%20Master%20Saurav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20Building%20things%20for%20the%20web&descAlignY=55&descAlign=50" alt="header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,10&height=250&section=header&text=Hi%20There,%20I'm%20Master%20Saurav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20Building%20things%20for%20the%20web&descAlignY=55&descAlign=50" alt="header banner" />
 
 <!-- ============================================================ -->
 <!--                    TYPING SVG                                 -->
@@ -37,12 +37,12 @@
   <img src="https://raw.githubusercontent.com/sauru10118/sauru10118/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
-> ⚠️ This needs a one-time GitHub Actions setup — full instructions below in **Setup Guide**.
+> 
 
 ### 🚀 About Me
 
 ```javascript
-const masterSaurav = {
+const MasterSaurav = {
     role: "Full Stack Web Developer",
     location: "Pune, India",
     currentFocus: "Building scalable web apps with React & Node.js",
@@ -55,8 +55,8 @@ const masterSaurav = {
 - 🔭 Currently working on **[Expense Tracker]**
 - 🌱 Currently learning **Next.js 15 / Rust / (whatever's next)**
 - 👯 Looking to collaborate on **open source web projects**
-- 💬 Ask me about **React, TypeScript, Node.js, or web performance**
-- ⚡ Fun fact: **replace this with something fun about you**
+- 💬 Ask me about **TypeScript, html, or web performance**
+- ⚡ Fun fact: **I am not a programer i am a webartist**
 
 <br>
 
