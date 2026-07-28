@@ -31,6 +31,14 @@
 <!-- ============================================================ -->
 <!--                    ABOUT ME                                    -->
 <!-- ============================================================ -->
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sauru10118/sauru10118/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+> ⚠️ This needs a one-time GitHub Actions setup — full instructions below in **Setup Guide**.
+
 ### 🚀 About Me
 
 ```javascript
@@ -97,13 +105,6 @@ const masterSaurav = {
 <!-- ============================================================ -->
 <!--                    SNAKE GAME ANIMATION                        -->
 <!-- ============================================================ -->
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sauru10118/sauru10118/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
-> ⚠️ This needs a one-time GitHub Actions setup — full instructions below in **Setup Guide**.
 
 <br>
 
