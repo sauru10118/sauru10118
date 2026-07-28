@@ -44,7 +44,7 @@ const masterSaurav = {
 };
 ```
 
-- 🔭 Currently working on **[expense Tracker]**
+- 🔭 Currently working on **[Expense Tracker]**
 - 🌱 Currently learning **Next.js 15 / Rust / (whatever's next)**
 - 👯 Looking to collaborate on **open source web projects**
 - 💬 Ask me about **React, TypeScript, Node.js, or web performance**
@@ -103,7 +103,7 @@ const masterSaurav = {
   <img src="https://raw.githubusercontent.com/sauru10118/sauru10118/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
-> 
+> ⚠️ This needs a one-time GitHub Actions setup — full instructions below in **Setup Guide**.
 
 <br>
 
@@ -114,11 +114,8 @@ const masterSaurav = {
 
 <div align="center">
 
-<a href="https://github.com/sauru10118/Expense Tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauru10118&repo=Expense Tracker&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/sauru10118/Ai analyzer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauru10118&repo=Ai analyzer&theme=radical&hide_border=true" />
+<a href="https://github.com/sauru10118/ITR-EXPENSE-TRACKER">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sauru10118&repo=ITR-EXPENSE-TRACKER&theme=radical&hide_border=true" />
 </a>
 
 </div>
