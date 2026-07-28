@@ -71,7 +71,7 @@ const masterSaurav = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sauru10118&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sauru10118&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauru10118&layout=compact&theme=radical&hide_border=true" />
 </div>
 
@@ -103,7 +103,7 @@ const masterSaurav = {
   <img src="https://raw.githubusercontent.com/sauru10118/sauru10118/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
-> ⚠️ This needs a one-time GitHub Actions setup — full instructions below in **Setup Guide**.
+> 
 
 <br>
 
