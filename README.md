@@ -1,14 +1,14 @@
 <!-- ============================================================ -->
 <!--                    WAVE HEADER BANNER                        -->
 <!-- ============================================================ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,10&height=250&section=header&text=Hi%20There,%20I'm%20Master%20Saurav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20Building%20things%20for%20the%20web&descAlignY=55&descAlign=50" alt="header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,7&height=250&section=header&text=Hi%20There,%20I'm%20Master%20Saurav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20Building%20things%20for%20the%20web&descAlignY=55&descAlign=50" alt="header banner" />
 
 <!-- ============================================================ -->
 <!--                    TYPING SVG                                 -->
 <!-- ============================================================ -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+TypeScript;Always+learning+something+new;Welcome+to+my+profile+%F0%9F%9A%80" alt="Typing SVG" /> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+TypeScript;Always+learning+something+new;Welcome+to+my+profile+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -27,26 +27,22 @@
 </div>
 
 <br>
-
-<!-- ============================================================ -->
-<!--                    ABOUT ME                                    -->
-<!-- ============================================================ -->
 ### 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sauru10118/sauru10118/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
-
-> 
-
+<!-- ============================================================ -->
+<!--                    ABOUT ME                                    -->
+<!-- ============================================================ -->
 ### 🚀 About Me
 
 ```javascript
-const MasterSaurav = {
+const masterSaurav = {
     role: "Full Stack Web Developer",
     location: "Pune, India",
     currentFocus: "Building scalable web apps with React & Node.js",
-    funFact: "I debug with console.log and I'm not ashamed",
+    funFact: "I am not a developer I am a webartist",
     hobbies: ["open source", "coffee", "gaming", "learning new frameworks"],
     reachMe: "sauru10118@gmail.com"
 };
@@ -55,8 +51,8 @@ const MasterSaurav = {
 - 🔭 Currently working on **[Expense Tracker]**
 - 🌱 Currently learning **Next.js 15 / Rust / (whatever's next)**
 - 👯 Looking to collaborate on **open source web projects**
-- 💬 Ask me about **TypeScript, html, or web performance**
-- ⚡ Fun fact: **I am not a programer i am a webartist**
+- 💬 Ask me about **React, TypeScript, Node.js, or web performance**
+- ⚡ Fun fact: **replace this with something fun about you**
 
 <br>
 
@@ -106,6 +102,9 @@ const MasterSaurav = {
 <!--                    SNAKE GAME ANIMATION                        -->
 <!-- ============================================================ -->
 
+
+
+
 <br>
 
 <!-- ============================================================ -->
@@ -150,7 +149,7 @@ Replace this with your WakaTime stats block once configured — see setup guide.
 <!-- ============================================================ -->
 <!--                    FOOTER WAVE                                 -->
 <!-- ============================================================ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14&height=120&section=footer" alt="footer wave" />
 
 <div align="center">
   <i>⭐ From <a href="https://github.com/sauru10118">sauru10118</a> — thanks for stopping by!</i>
